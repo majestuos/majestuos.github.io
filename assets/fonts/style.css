@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'Chubbo-Bold';
+   font-display: swap;
+   src: url('Chubbo-Bold/font.ttf');
+}
+@font-face {
+   font-family: 'Chubbo-Light';
+   font-display: swap;
+   src: url('Chubbo-Light/font.ttf');
+}
+@font-face {
+   font-family: 'Chubbo-Regular';
+   font-display: swap;
+   src: url('Chubbo-Regular/font.ttf');
+}
