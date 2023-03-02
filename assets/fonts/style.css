@@ -1,12 +1,7 @@
 @font-face {
-   font-family: 'FreeSerif-4aeK';
+   font-family: 'ReciaDisplay-Bold';
    font-display: swap;
-   src: url('FreeSerif-4aeK/font.ttf');
-}
-@font-face {
-   font-family: 'Rowan-Light';
-   font-display: swap;
-   src: url('Rowan-Light/font.ttf');
+   src: url('ReciaDisplay-Bold/font.ttf');
 }
 @font-face {
    font-family: 'Rowan-Medium';

@@ -13,9 +13,9 @@
         "warningColor": "#FFE161",
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
-        "display1Font": "FreeSerif-4aeK",
+        "display1Font": "ReciaDisplay-Bold",
         "display1Size": "7",
-        "display2Font": "Rowan-Light",
+        "display2Font": "Rowan-Medium",
         "display2Size": "3.3",
         "display5Font": "Rowan-Medium",
         "display5Size": "1.5",
@@ -309,7 +309,8 @@
               }
             },
             ".mbr-section-subtitle": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             }
           },
           "_name": "content4",
@@ -353,7 +354,8 @@
               "background-image": "url(@bg-value)"
             },
             ".mbr-section-title": {
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#000000"
             },
             ".mbr-section-subtitle": {
               "text-align": "left"

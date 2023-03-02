@@ -2,7 +2,7 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'FreeSerif-4aeK';
+  font-family: 'ReciaDisplay-Bold';
   font-size: 7rem;
   line-height: 1.1;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 8.75rem;
 }
 .display-2 {
-  font-family: 'Rowan-Light';
+  font-family: 'Rowan-Medium';
   font-size: 3.3rem;
   line-height: 1.1;
 }
@@ -720,6 +720,7 @@ a {
 }
 .cid-tx43pvKHJR .mbr-section-subtitle {
   text-align: left;
+  color: #000000;
 }
 .cid-tx436SNzAy {
   padding-top: 0rem;
@@ -733,6 +734,7 @@ a {
 }
 .cid-s48udlf8KU .mbr-section-title {
   text-align: left;
+  color: #000000;
 }
 .cid-s48udlf8KU .mbr-section-subtitle {
   text-align: left;
