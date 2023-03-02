@@ -14,10 +14,10 @@
         "dangerColor": "#ff9966",
         "mainFont": "Jost",
         "display1Font": "ReciaDisplay-Bold",
-        "display1Size": "7",
+        "display1Size": "7.6",
         "display2Font": "Rowan-Medium",
         "display2Size": "3.3",
-        "display5Font": "Rowan-Medium",
+        "display5Font": "Rowan-MediumItalic",
         "display5Size": "1.5",
         "display7Font": "Rowan-Regular",
         "display7Size": "1.36",
@@ -29,7 +29,10 @@
         "isAnimatedOnScroll": false,
         "isScrollToTopButton": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#036b48",
+        "#048b6c"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "5.0.2",
@@ -258,7 +261,7 @@
             },
             ".mbr-section-title": {
               "text-align": "left",
-              "color": "#22a5e5"
+              "color": "#2299aa"
             },
             ".mbr-text, .mbr-section-btn": {
               "color": "#232323",
