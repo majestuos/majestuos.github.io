@@ -4,11 +4,6 @@
    src: url('ReciaDisplay-Bold/font.ttf');
 }
 @font-face {
-   font-family: 'Rowan-Medium';
-   font-display: swap;
-   src: url('Rowan-Medium/font.ttf');
-}
-@font-face {
    font-family: 'Rowan-MediumItalic';
    font-display: swap;
    src: url('Rowan-MediumItalic/font.ttf');
