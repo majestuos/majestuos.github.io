@@ -1,15 +1,20 @@
 @font-face {
-   font-family: 'Chubbo-Bold';
+   font-family: 'FreeSerif-4aeK';
    font-display: swap;
-   src: url('Chubbo-Bold/font.ttf');
+   src: url('FreeSerif-4aeK/font.ttf');
 }
 @font-face {
-   font-family: 'Chubbo-Light';
+   font-family: 'Rowan-Light';
    font-display: swap;
-   src: url('Chubbo-Light/font.ttf');
+   src: url('Rowan-Light/font.ttf');
 }
 @font-face {
-   font-family: 'Chubbo-Regular';
+   font-family: 'Rowan-Medium';
    font-display: swap;
-   src: url('Chubbo-Regular/font.ttf');
+   src: url('Rowan-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'Rowan-Regular';
+   font-display: swap;
+   src: url('Rowan-Regular/font.ttf');
 }
