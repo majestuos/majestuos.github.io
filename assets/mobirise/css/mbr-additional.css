@@ -2,12 +2,12 @@ body {
   font-family: Jost;
 }
 .display-1 {
-  font-family: 'ReciaDisplay-Bold';
-  font-size: 7.6rem;
+  font-family: 'NyghtSerif-Dark';
+  font-size: 19rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 9.5rem;
+  font-size: 23.75rem;
 }
 .display-2 {
   font-family: 'Commissioner', sans-serif;
@@ -19,11 +19,11 @@ body {
 }
 .display-4 {
   font-family: 'Commissioner', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   line-height: 1.5;
 }
 .display-4 > .mbr-iconfont {
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 .display-5 {
   font-family: 'Newsreader', serif;
@@ -48,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 6.08rem;
+    font-size: 15.2rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 5.32rem;
-    font-size: calc( 3.3099999999999996rem + (7.6 - 3.3099999999999996) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (3.3099999999999996rem + (7.6 - 3.3099999999999996) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 13.3rem;
+    font-size: calc( 7.299999999999999rem + (19 - 7.299999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (7.299999999999999rem + (19 - 7.299999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.64rem;
@@ -63,9 +63,9 @@ body {
     line-height: calc( 1.3 * (1.805rem + (3.3 - 1.805) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-4 {
-    font-size: 0.64rem;
-    font-size: calc( 0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 0.48rem;
+    font-size: calc( 0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (0.86rem + (0.6 - 0.86) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
     font-size: 1.2rem;
@@ -587,12 +587,12 @@ a:hover {
 }
 .form-control {
   font-family: 'Commissioner', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 .form-control:hover,
 .form-control:focus {
@@ -601,12 +601,12 @@ a:hover {
 }
 .form-control:-webkit-input-placeholder {
   font-family: 'Commissioner', sans-serif;
-  font-size: 0.8rem;
+  font-size: 0.6rem;
   line-height: 1.5;
   font-weight: 400;
 }
 .form-control:-webkit-input-placeholder > .mbr-iconfont {
-  font-size: 1rem;
+  font-size: 0.75rem;
 }
 blockquote {
   border-color: #6592e6;
