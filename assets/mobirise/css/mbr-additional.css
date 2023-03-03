@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: 'NyghtSerif-Dark';
-  font-size: 19rem;
+  font-size: 18rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 23.75rem;
+  font-size: 22.5rem;
 }
 .display-2 {
   font-family: 'Commissioner', sans-serif;
@@ -48,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 15.2rem;
+    font-size: 14.4rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 13.3rem;
-    font-size: calc( 7.299999999999999rem + (19 - 7.299999999999999) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (7.299999999999999rem + (19 - 7.299999999999999) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 12.6rem;
+    font-size: calc( 6.949999999999999rem + (18 - 6.949999999999999) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (6.949999999999999rem + (18 - 6.949999999999999) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.24rem;
@@ -682,24 +682,22 @@ body {
 a {
   transition: color 0.6s;
 }
-.cid-s48MCQYojq {
-  background-image: url("../../../assets/images/background7.jpg");
+.cid-txtlLIqymy {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
 }
-.cid-s48MCQYojq .mbr-section-title {
-  text-align: left;
-  color: #2299aa;
+.cid-txtlLIqymy .mbr-fallback-image.disabled {
+  display: none;
 }
-.cid-s48MCQYojq .mbr-text,
-.cid-s48MCQYojq .mbr-section-btn {
-  color: #232323;
-  text-align: left;
-}
-@media (max-width: 991px) {
-  .cid-s48MCQYojq .mbr-section-title,
-  .cid-s48MCQYojq .mbr-section-btn,
-  .cid-s48MCQYojq .mbr-text {
-    text-align: center;
-  }
+.cid-txtlLIqymy .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
 }
 .cid-tx43pvKHJR {
   padding-top: 5rem;
@@ -1121,7 +1119,7 @@ a {
 .cid-s48P1Icc8J {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  background-color: #232323;
+  background-color: #ffffff;
 }
 .cid-s48P1Icc8J .row-links {
   width: 100%;
