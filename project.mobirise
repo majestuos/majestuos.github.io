@@ -1075,6 +1075,9 @@
                   "width": "100%"
                 }
               }
+            },
+            ".media-container-row .mbr-text": {
+              "color": "#40b0bf"
             }
           },
           "_name": "footer3",
