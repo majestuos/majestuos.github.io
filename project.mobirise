@@ -31,7 +31,8 @@
       },
       "additionalSetColors": [
         "#036b48",
-        "#048b6c"
+        "#048b6c",
+        "#0271be"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -385,6 +386,9 @@
               "& when (@bg-type = 'video')": {
                 "background-image": "url(@fallBackImage)"
               }
+            },
+            ".mbr-section-title": {
+              "color": "#0271be"
             }
           },
           "_name": "content4",
