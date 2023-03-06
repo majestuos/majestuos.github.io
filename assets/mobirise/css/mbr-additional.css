@@ -3,11 +3,11 @@ body {
 }
 .display-1 {
   font-family: 'NyghtSerif-DarkItalic';
-  font-size: 21.9rem;
+  font-size: 21rem;
   line-height: 1.1;
 }
 .display-1 > .mbr-iconfont {
-  font-size: 27.375rem;
+  font-size: 26.25rem;
 }
 .display-2 {
   font-family: 'Commissioner', sans-serif;
@@ -48,14 +48,14 @@ body {
 /* 0.65 - min scale variable, may vary */
 @media (max-width: 992px) {
   .display-1 {
-    font-size: 17.52rem;
+    font-size: 16.8rem;
   }
 }
 @media (max-width: 768px) {
   .display-1 {
-    font-size: 15.33rem;
-    font-size: calc( 8.315rem + (21.9 - 8.315) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.1 * (8.315rem + (21.9 - 8.315) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 14.7rem;
+    font-size: calc( 8rem + (21 - 8) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.1 * (8rem + (21 - 8) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-2 {
     font-size: 2.24rem;
@@ -1121,7 +1121,7 @@ a {
 }
 .cid-s48P1Icc8J {
   padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-bottom: 0rem;
   background-color: #ffffff;
 }
 .cid-s48P1Icc8J .row-links {
