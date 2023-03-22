@@ -21,7 +21,7 @@
         "display5Size": "1.5",
         "display7Font": "Ysabeau-Regular",
         "display7Size": "1.20",
-        "display4Font": "Commissioner",
+        "display4Font": "YsabeauInfant-Regular",
         "display4Size": "0.6",
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
@@ -337,6 +337,12 @@
         "css": "'Yrsa', serif",
         "name": "Yrsa",
         "url": "https://fonts.googleapis.com/css?family=Yrsa:300,400,500,600,700,300i,400i,500i,600i,700i"
+      },
+      {
+        "css": "'YsabeauInfant-Regular'",
+        "name": "YsabeauInfant-Regular",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/YsabeauInfant-Regular/font.ttf"
       }
     ],
     "uniqCompNum": 26,
