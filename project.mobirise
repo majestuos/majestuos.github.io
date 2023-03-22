@@ -16,8 +16,8 @@
         "display1Font": "NyghtSerif-DarkItalic",
         "display1Size": "21",
         "display2Font": "Yrsa",
-        "display2Size": "2.8",
-        "display5Font": "Yrsa",
+        "display2Size": "3.3",
+        "display5Font": "YsabeauInfant-MediumItalic",
         "display5Size": "1.5",
         "display7Font": "Ysabeau-Regular",
         "display7Size": "1.20",
@@ -343,6 +343,12 @@
         "name": "YsabeauInfant-Regular",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/YsabeauInfant-Regular/font.ttf"
+      },
+      {
+        "css": "'YsabeauInfant-MediumItalic'",
+        "name": "YsabeauInfant-MediumItalic",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/YsabeauInfant-MediumItalic/font.ttf"
       }
     ],
     "uniqCompNum": 26,

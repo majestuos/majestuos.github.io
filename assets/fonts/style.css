@@ -4,6 +4,11 @@
    src: url('NyghtSerif-DarkItalic/font.ttf');
 }
 @font-face {
+   font-family: 'YsabeauInfant-MediumItalic';
+   font-display: swap;
+   src: url('YsabeauInfant-MediumItalic/font.ttf');
+}
+@font-face {
    font-family: 'Ysabeau-Regular';
    font-display: swap;
    src: url('Ysabeau-Regular/font.ttf');
