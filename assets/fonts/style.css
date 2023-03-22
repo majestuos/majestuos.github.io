@@ -3,3 +3,8 @@
    font-display: swap;
    src: url('NyghtSerif-DarkItalic/font.ttf');
 }
+@font-face {
+   font-family: 'Ysabeau-Regular';
+   font-display: swap;
+   src: url('Ysabeau-Regular/font.ttf');
+}
