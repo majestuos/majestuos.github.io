@@ -4,6 +4,11 @@
    src: url('NyghtSerif-DarkItalic/font.ttf');
 }
 @font-face {
+   font-family: 'CooperHewitt-Bold';
+   font-display: swap;
+   src: url('CooperHewitt-Bold/font.ttf');
+}
+@font-face {
    font-family: 'YsabeauInfant-MediumItalic';
    font-display: swap;
    src: url('YsabeauInfant-MediumItalic/font.ttf');
@@ -12,4 +17,9 @@
    font-family: 'Ysabeau-Regular';
    font-display: swap;
    src: url('Ysabeau-Regular/font.ttf');
+}
+@font-face {
+   font-family: 'CooperHewitt-Book';
+   font-display: swap;
+   src: url('CooperHewitt-Book/font.ttf');
 }
