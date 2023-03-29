@@ -15,13 +15,13 @@
         "mainFont": "Jost",
         "display1Font": "NyghtSerif-DarkItalic",
         "display1Size": "21",
-        "display2Font": "CooperHewitt-Bold",
+        "display2Font": "Outfit",
         "display2Size": "2.8",
         "display5Font": "YsabeauInfant-MediumItalic",
         "display5Size": "1.5",
-        "display7Font": "Ysabeau-Regular",
+        "display7Font": "Ysabeau-Medium",
         "display7Size": "1.20",
-        "display4Font": "CooperHewitt-Book",
+        "display4Font": "Outfit",
         "display4Size": "0.42",
         "isRoundedButtons": false,
         "isGhostButtonBorder": false,
@@ -379,6 +379,37 @@
         "name": "CooperHewitt-Book",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/CooperHewitt-Book/font.ttf"
+      },
+      {
+        "css": "'Anybody', display",
+        "name": "Anybody",
+        "url": "https://fonts.googleapis.com/css?family=Anybody:100,200,300,400,500,600,700,800,900,100i,200i,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Murecho', sans-serif",
+        "name": "Murecho",
+        "url": "https://fonts.googleapis.com/css?family=Murecho:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Spline Sans', sans-serif",
+        "name": "Spline Sans",
+        "url": "https://fonts.googleapis.com/css?family=Spline+Sans:300,400,500,600,700"
+      },
+      {
+        "css": "'Anek Latin', sans-serif",
+        "name": "Anek Latin",
+        "url": "https://fonts.googleapis.com/css?family=Anek+Latin:100,200,300,400,500,600,700,800"
+      },
+      {
+        "css": "'Outfit', sans-serif",
+        "name": "Outfit",
+        "url": "https://fonts.googleapis.com/css?family=Outfit:100,200,300,400,500,600,700,800,900"
+      },
+      {
+        "css": "'Ysabeau-Medium'",
+        "name": "Ysabeau-Medium",
+        "url": null,
+        "file": "@PROJECT_PATH@/fonts/Ysabeau-Medium/font.ttf"
       }
     ],
     "uniqCompNum": 26,
